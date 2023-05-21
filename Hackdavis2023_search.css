@@ -1,0 +1,95 @@
+body {
+    background-image: url("bg.png");
+    background-size: 100% 100vh;
+    background-position: top;
+}
+
+#logo {
+    margin-top: 10%;
+    width: 200px;
+    margin-left: 5%;
+}
+
+.home {
+    padding-inline: 20px;
+    }
+    #location {
+    height: 8%;
+    border-radius: 25px;
+    background-color: #D4ECE8;
+    border: none;
+    width: 85%;
+    margin-left: 7%;
+    margin-top: 20%;
+    }
+    
+    #date {
+        margin-top: 40px;
+        font-family: 'Verdana';
+        font-weight: bold;
+        font-size: 40px;
+        width: 85%;
+        color: #7A948F;
+        margin-left: 70px;
+        border-radius: 25px;
+        height: 8%;
+        background-color: #D4ECE8;
+        border: none;
+    }
+    .textInput {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .row {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    justify-content:space-between;
+    }
+    
+    #tags {
+    height: 40px;
+    width: 60%;
+    border-radius: 50px;
+    }
+    
+    .submit {
+    width: 30%;
+    border-radius: 50px;
+    border:none;
+    }
+    
+    .recurring {
+    height: 40px;
+    width: 50%;
+    border-radius: 50px 0 0 50px;
+    border: none;
+    background-color: grey;
+    color: white;
+    }
+    
+    .singular {
+    height: 40px;
+    width: 50%;
+    border-radius: 0 50px 50px 0;
+    border:none;
+    }
+    
+    .recurringorsingular {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+    }
+
+    #title{
+        margin-top: -100px;
+        font-family: 'Verdana';
+        font-weight: bold;
+        font-size: 40px;
+        width: 690px;
+        color: #7A948F;
+        margin-left: 275px;
+    }

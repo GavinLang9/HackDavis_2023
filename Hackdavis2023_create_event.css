@@ -1,0 +1,214 @@
+body {
+    background-image: url("bg.png");
+    background-size: 100% 100vh;
+    background-position: top;
+}
+
+.headerdiv {
+    padding-top: 50px;
+    padding-left: 15px;
+}
+
+#header-text{
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 20px;
+
+    color: #627D77;
+}
+
+#organization-title {    
+    padding-left: 7%;
+    padding-bottom: 0%;
+    padding-top: 5%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #7A9491;
+}
+
+.input {
+    margin-top: 2%;
+    padding-top: 12px;
+    padding-left: 20px;
+    margin-left: 7%;
+    width: 86%;
+    height: 50px;
+    left: 7%;
+    background-color: #D4ECE8;
+    border-radius: 15px;
+    border: none;
+}
+
+input:hover, input:active, input:focus {
+    border: none;
+    border-style: none;
+    border-color: transparent;
+    outline: none;
+}
+
+#input-title {    
+    padding-left: 7%;
+    padding-bottom: -50%;
+    padding-top: 5%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #7A9491;
+}
+
+#location-title {    
+    padding-left: 7%;
+    padding-bottom: -50%;
+    padding-top: 0%;
+    margin-top: -12%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #7A9491;
+}
+
+#days {   
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-size: 17px;
+
+    color: #627D77;
+}
+
+#days-title {   
+    margin-top: 5%;
+    padding-left: 8%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+
+    color: #7A9491;
+}
+
+.days {
+    margin-top: 48%;
+    padding-top: 45%;
+    position: absolute;
+    width: 40%;
+    height: 18%;
+    left: 8%;
+    top: 0%;
+}
+
+#logo {
+    margin-top: -15px;
+    width: 60px;
+}
+
+.titlediv {
+    padding-top: 5%;
+    padding-left: 9%;
+}
+
+#title-text{
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 24px;
+
+    color: #7A948F;
+
+}
+
+#divider {
+    margin-top: 35%;
+    margin-bottom: 8%;
+    border-color: #7A9491;
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+button, button:hover {
+    margin-top: 50%;
+    margin-left: 27%;
+    background-color: #7A948F;
+    border-radius: 25px;
+    border: none;
+    font-family: 'Verdana';
+    font-weight: normal;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    width: 50%;
+    outline: 0;
+}
+
+button:active {
+    margin-top: 50%;
+    margin-left: 27%;
+    background-color: #A9C7C2;
+    border-radius: 25px;
+    border: none;
+    font-family: 'Verdana';
+    font-weight: normal;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    width: 50%;
+    outline: 0;
+}
+
+#upload {
+    padding-left: 82%;
+    margin-top: -18%;
+}
+
+#upload-text {    
+    padding-left: 54%;
+    padding-bottom: -50%;
+    margin-top: 50px;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #7A9491;
+}
+
+#check {
+    margin-top: 0px;
+    border-radius: 5px;
+    margin-left: 0px;
+    width: 5px;
+    height: 5px;
+    background-color:transparent;
+    border: 2px solid;
+    border-color:#627D77;
+}
+
+#check2 {
+    margin-top: 10%;
+    border-radius: 5px;
+    margin-left: 0px;
+    width: 5px;
+    height: 5px;
+    background-color:transparent;
+    border: 2px solid;
+    border-color:#627D77;
+}
+
+#tag {   
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-size: 17px;
+
+    color: #627D77;
+    background-color: #A9C7C2;
+    border-radius: 10px;
+    padding: 10px 45px 10px 10px;
+}
+
+#create {
+    margin-top: 60%;
+}

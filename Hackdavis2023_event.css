@@ -1,0 +1,265 @@
+body {
+    background-image: url("bg.png");
+    background-size: 100% 100vh;
+    background-position: top;
+}
+
+.headerdiv {
+    padding-top: 50px;
+    padding-left: 15px;
+}
+
+#header-text{
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 20px;
+
+    color: #627D77;
+}
+
+.about {
+    margin-top: 8%;
+    padding-top: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    width: 86%;
+    height: 15%;
+    left: 7%;
+    top: 20%;
+    background-color: #D4ECE8;
+    border-radius: 15px;
+}
+
+#about {    
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #627D77;
+}
+
+#about-title {    
+    padding-left: 7%;
+    padding-bottom: -50%;
+    padding-top: 5%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #7A9491;
+}
+
+#location {    
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #7A9491;
+}
+
+#location-title {    
+    padding-left: 0%;
+    padding-top: 7%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #7A9491;
+}
+
+.location {
+    margin-top: 45%;
+    padding-top: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    width: 86%;
+    height: 9%;
+    left: 7%;
+    top: 20%;
+    background-color: #D4ECE8;
+    border-radius: 15px;
+}
+
+#hours {    
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #627D77;
+}
+
+#hours-right {   
+    margin-left: 33%; 
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 15px;
+
+    color: #627D77;
+}
+
+#hours-title {    
+    padding-left: 0%;
+    padding-top: 7%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+
+    color: #7A9491;
+}
+
+.hours {
+    margin-top: 69%;
+    padding-top: 12px;
+    padding-left: 20px;
+    padding-right: -10px;
+    margin-bottom: 0px;
+    position: absolute;
+    width: 86%;
+    height: 9%;
+    left: 7%;
+    top: 20%;
+    background-color: #D4ECE8;
+    border-radius: 15px;
+}
+
+#items {    
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #627D77;
+}
+
+#items-bottom {    
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #627D77;
+}
+
+#items-title {    
+    padding-left: 7%;
+    padding-top: 87%;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+
+    color: #7A9491;
+}
+
+.items {
+    margin-top: 100%;
+    padding-top: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    width: 48%;
+    height: 18%;
+    left: 7%;
+    top: 20%;
+    background-color: #D4ECE8;
+    border-radius: 15px;
+}
+
+#eligibility {    
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-size: 15px;
+
+    color: #627D77;
+}
+
+#eligibility-title {    
+    padding-left: 60%;
+    margin-top: -27px;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+
+    color: #7A9491;
+}
+
+.eligibility {
+    margin-top: 100%;
+    padding-top: 0px;
+    position: absolute;
+    width: 30%;
+    height: 18%;
+    left: 60%;
+    top: 20%;
+}
+
+#logo {
+    margin-top: -15px;
+    width: 60px;
+}
+
+.titlediv {
+    padding-top: 5%;
+    padding-left: 9%;
+}
+
+#title-text{
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 24px;
+
+    color: #7A948F;
+
+}
+
+#logo2 {
+    margin-top: -15px;
+    margin-left: -10px;
+    width: 40px;
+}
+
+#divider {
+    margin-top: 35%;
+    margin-bottom: 8%;
+    border-color: #7A9491;
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+button, button:hover {
+    margin-top: 50%;
+    margin-left: 27%;
+    background-color: #7A948F;
+    border-radius: 25px;
+    border: none;
+    font-family: 'Verdana';
+    font-weight: normal;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    width: 50%;
+    outline: 0;
+}
+
+button:active {
+    margin-top: 50%;
+    margin-left: 27%;
+    background-color: #A9C7C2;
+    border-radius: 25px;
+    border: none;
+    font-family: 'Verdana';
+    font-weight: normal;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    width: 50%;
+    outline: 0;
+}
