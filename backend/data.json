@@ -1,0 +1,672 @@
+[
+  {
+    "Name": "Woodland Hispanic Foursquare Church",
+    "Items Available": "Groceries",
+    "days": "2023-05-20",
+    "Hours": "9:00",
+    "Address": "23 Grand Ave, Woodland, CA 95695, USA",
+    "Contact": "(530) 662-5524",
+    "Notes": "Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Arbuckle Family Action Center",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-03,2023-05-17",
+    "Hours": "11:00 - 12:00,11:00 - 12:00",
+    "Address": "812 King St, Arbuckle, CA 95912, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Campers Inn RV Park",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-03,2023-05-17",
+    "Hours": "16:00 - 17:00,16:00 - 17:00",
+    "Address": "2501 County Road 88, Dunnigan, CA 95937, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Clarksburg Community Church",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-02,2023-05-16",
+    "Hours": "12:00 - 13:00,12:00 - 13:00",
+    "Address": "52910 Netherlands Ave, Clarksburg, CA 95612, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Clarksburg Firehouse",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-16",
+    "Hours": "12:00 - 13:00",
+    "Address": "52902 Clarksburg Rd, Clarksburg, CA 95612, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Davis Senior Center",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-17",
+    "Hours": "11:15 - 11:45",
+    "Address": "646 A St, Davis, CA 95616, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Davisville Apartments",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-17",
+    "Hours": "10:30 - 11:30",
+    "Address": "1221 Kennedy Pl, Davis, CA 95616, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Elks Lodge",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-24",
+    "Hours": "10:00 - 10:30",
+    "Address": "500 Bush St, Woodland, CA 95695, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Empower Yolo",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-10,2023-05-24",
+    "Hours": "9:00,9:00",
+    "Address": "441 D St, Davis, CA 95616, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Empower Yolo",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-11,2023-05-25",
+    "Hours": "10:00 - 12:00,10:00 - 12:00",
+    "Address": "9586 Mill St, Knights Landing, CA 95645, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Guinda Grange Hall",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-08,2023-05-22",
+    "Hours": "10:00 - 11:00,10:00 - 11:00",
+    "Address": "16787 Forest Ave, Guinda, CA 95637, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Guinda Grange Hall",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-22",
+    "Hours": "10:00 - 11:00",
+    "Address": "16787 Forest Ave, Guinda, CA 95637, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Dunnigan Firehouse",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-19",
+    "Hours": "09:30 - 10:00",
+    "Address": "29145 Main Street, Dunnigan, CA, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Health Education Council",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-05",
+    "Hours": "8:15 - Community walk",
+    "Address": "820 Cummins Way, West Sacramento, CA 95605, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart. Distribution includes physical activity. Food distribution is located at Elk Horn Village Elementary (750 Cummins Way) in the cafeteria.",
+    "Website": "na"
+  },
+  {
+    "Name": "Knights Landing Community Center",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-19",
+    "Hours": "10:15 - 10:45",
+    "Address": "42114 7th St, Knights Landing, CA 95645, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Montgomery Elementary School",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-12",
+    "Hours": "21:00 - 13:00",
+    "Address": "1441 Danbury Ave, Music Room M-1, Davis, CA 95618, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Check in at the front office. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Owendale Apartments",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-17",
+    "Hours": "17:00 - 18:00",
+    "Address": "3023 Albany Ave, Davis, CA 95618, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Rise, Inc.",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-04,2023-05-18",
+    "Hours": "10:30 - 11:30,10:30 - 11:30",
+    "Address": "17317 Fremont St, Esparto, CA 95627, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Rise, Inc.",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-04,2023-05-18",
+    "Hours": "10:00 - 11:00,10:00 - 11:00",
+    "Address": "200 Baker St, Room 4 & 5, Winters, CA 95694, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Summertree Apartments",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-24",
+    "Hours": "10:00 - 10:30",
+    "Address": "601 Community Ln, Woodland, CA 95695, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "West Sacramento County Building",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-03",
+    "Hours": "09:00 - 10:00",
+    "Address": "500 A Jefferson Blvd, Community Room 1, West Sacramento, CA 95605, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "West Sacramento County Building",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-16",
+    "Hours": "10:00 - 10:30",
+    "Address": "500 Jefferson Blvd, West Sacramento, CA 95605, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "West Sacramento Yolo Housing",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-16",
+    "Hours": "12:00 - 12:30",
+    "Address": "685 Lighthouse Dr, West Sacramento, CA 95605, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Woodland Community and Senior Center",
+    "Items Available": "Fruits and vegetables, baked goods",
+    "days": "2023-05-02,2023-05-09,2023-05-16,2023-05-23,2023-05-30",
+    "Hours": "09:30 - 10:00,09:30 - 10:00,09:30 - 10:00,09:30 - 10:00,09:30 - 10:00",
+    "Address": "2001 East St, Woodland, CA 95776, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Woodland Family Worship Center",
+    "Items Available": "Free produce, dairy, groceries",
+    "days": "2023-05-05",
+    "Hours": "8:00 while supplies last",
+    "Address": "386 W Beamer St, Woodland, CA 95695, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Yolo County Children�s Alliance",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-12",
+    "Hours": "10:30 - 12:00",
+    "Address": "637 Todhunter Ave, Room 21B, West Sacramento, CA 95605, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Yolo County Fairgrounds - John Rogers Hall",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-24",
+    "Hours": "10:00 - 10:30",
+    "Address": "1250 Gum Avenue, Woodland, CA 95776, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Yolo County Housing Authority",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-18",
+    "Hours": "11:00 - 12:00",
+    "Address": "62 Shams Way, Winters, CA 95694, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Yolo Library",
+    "Items Available": "Fruits and vegetables",
+    "days": "2023-05-04",
+    "Hours": "10:45 - 11:45",
+    "Address": "37750 Sacramento St, Yolo, CA 95697, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Yolo Library",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-19",
+    "Hours": "08:30 - 10:00",
+    "Address": "37750 Sacramento St, Yolo, CA 95697, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Madison Community Committee Food Closet",
+    "Items Available": "Canned, Dry Goods, Dairy, Produce, Bread, Meat, Fruits, Vegetables",
+    "days": "2023-05-08,2023-05-22",
+    "Hours": "16:00 - 17:00,16:00 - 17:00",
+    "Address": "28963 Main St, Madison, CA 95653, USA",
+    "Contact": "(530) 668-0955",
+    "Notes": "na",
+    "Website": "https://www.facebook.com/madisoncommunitycommitee/"
+  },
+  {
+    "Name": "Mutual Housing at Springlake",
+    "Items Available": "Canned and dry goods",
+    "days": "2023-05-21",
+    "Hours": "17:30 - 18:30",
+    "Address": "2170 Farmer Central Rd, Woodland, CA 95776, USA",
+    "Contact": "(530) 669-5767",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Rise, Inc.",
+    "Items Available": "Canned and Dry Goods",
+    "days": "2023-05-09,2023-05-23",
+    "Hours": "11:00 - 12:00,11:00 - 12:00",
+    "Address": "17317 Fremont St, Esparto, CA 95627, USA",
+    "Contact": "(530) 787-4110",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Trinity Presbyterian Church",
+    "Items Available": "Groceries",
+    "days": "2023-05-22",
+    "Hours": "18:30 - 19:30",
+    "Address": "1500 Park Blvd, West Sacramento, CA 95691, USA",
+    "Contact": "(916) 371-5875",
+    "Notes": "Please bring your own bag or cart.",
+    "Website": "http://www.trinitywestsac.org"
+  },
+  {
+    "Name": "Sacramento City College - Davis Center",
+    "Items Available": "Groceries.",
+    "days": "2023-05-24",
+    "Hours": "12:00 - 13:00",
+    "Address": "1720 Jade Street, Davis, CA, USA",
+    "Contact": "(530) 747-5200",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "https://www.scc.losrios.edu/daviscenter/"
+  },
+  {
+    "Name": "Winters HHSA Service Center",
+    "Items Available": "Produce, groceries, and canned and dry goods",
+    "days": "2023-05-18",
+    "Hours": "16:00 - 18:00",
+    "Address": "111 East Grant Avenue, Winters, CA, USA",
+    "Contact": "(530) 661-2750",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Yolo County Housing - Woodland",
+    "Items Available": "USDA Commodities",
+    "days": "2023-05-04",
+    "Hours": "16:00 - 17:30",
+    "Address": "1230 Lemen Avenue, Woodland, CA, USA",
+    "Contact": "530-669-2264",
+    "Notes": "Client must meet income requirements. Please bring your own bags or cart.",
+    "Website": "na"
+  },
+  {
+    "Name": "Masjid Aisha",
+    "Items Available": "Groceries. Pork excluded",
+    "days": "2023-05-10",
+    "Hours": "9:30 - While supplies last",
+    "Address": "700 Glide Avenue, West Sacramento, CA, USA",
+    "Contact": "(530) 668-0690",
+    "Notes": "Please bring your own bags or cart",
+    "Website": "na"
+  },
+  {
+    "Name": "Woodland Community College",
+    "Items Available": "Groceries",
+    "days": "2023-05-06",
+    "Hours": "12:00 until supplies last",
+    "Address": "2300 E. Gibson Rd., Woodland, CA 95776, Building 700",
+    "Contact": 5306680690,
+    "Notes": "Although on the WCC campus, this distribution is open to all! Please bring your own bags. Parking not enforced on distribution days.",
+    "Website": "na"
+  },
+  {
+    "Name": "Sacramento City College - West Sacramento Center",
+    "Items Available": "Groceries",
+    "days": "2023-05-02,2023-05-17",
+    "Hours": "12:00 until supplies last,12:00 until supplies last",
+    "Address": "1115 West Capitol Avenue, West Sacramento, CA, USA",
+    "Contact": "na",
+    "Notes": "Please bring your own bags or cart.",
+    "Website": "https://www.scc.losrios.edu/westsaccenter/"
+  },
+  {
+    "Name": "Kentucky Avenue Church of Christ",
+    "Items Available": "Canned and Dry Goods",
+    "days": "2023-05-03,2023-05-17",
+    "Hours": "10:00 - 12:00 or until supplies last,10:00 - 12:00 or until supplies last",
+    "Address": "470 Kentucky Avenue, Woodland, CA, USA",
+    "Contact": "NA",
+    "Notes": "Client must meet income requirements",
+    "Website": "na"
+  },
+  {
+    "Name": "Woodland Community College Food Closet",
+    "Items Available": "Canned, Dry Goods",
+    "days": "2023-05-20",
+    "Hours": "9:00 - 16:30",
+    "Address": "2300 E. Gibson Rd, Room 802/809, Woodland, CA 95776, USA",
+    "Contact": "(530) 668-2577",
+    "Notes": "Must be a WCC student.",
+    "Website": "https://wcc.yccd.edu/student/student-outreach-retention-office/foodpantry/"
+  },
+  {
+    "Name": "The Sanctuary",
+    "Items Available": "Groceries",
+    "days": "2023-05-01,2023-05-02,2023-05-03,2023-05-04,2023-05-05",
+    "Hours": "9:00 - 12:00,9:00 - 12:00,21:00 - 12:00,9:00 - 12:00,9:00 - 12:00",
+    "Address": "825 East St, Suite 118, Woodland, CA 95776, USA",
+    "Contact": "(530) 219-6263",
+    "Notes": "Referral required. Call for more information.",
+    "Website": "http://www.thesanctuarywoodland.org/"
+  },
+  {
+    "Name": "Calvary Chapel of Zamora Food Pantry",
+    "Items Available": "Canned, Dry Goods, Dairy, Produce, Bread, Meat",
+    "days": "2023-05-05",
+    "Hours": "11:00 - 12:00",
+    "Address": "9974 Main St, Zamora, CA 95698, USA",
+    "Contact": "(530) 402-7002",
+    "Notes": "na",
+    "Website": "na"
+  },
+  {
+    "Name": "Salvation Army",
+    "Items Available": "USDA Commodities, Canned and Dry Goods",
+    "days": "2023-05-24",
+    "Hours": "13:30 - 16:00",
+    "Address": "413 Main St, Woodland, CA 95695, USA",
+    "Contact": "(530) 661-0141",
+    "Notes": "na",
+    "Website": "https://www.facebook.com/SalvationArmyWoodlandCa/"
+  },
+  {
+    "Name": "Pregnancy Support Group of Woodland",
+    "Items Available": "Emergency Food, Baby Supplies",
+    "days": "2023-05-18",
+    "Hours": "22:00 - 16:00",
+    "Address": "120 Court St, Woodland, CA 95695, USA",
+    "Contact": "(530) 661-6333",
+    "Notes": "For mothers only.",
+    "Website": "https://pregnancysupportgroup.info/"
+  },
+  {
+    "Name": "Calvary Chapel of Woodland Food Pantry",
+    "Items Available": "Canned, Dry Goods",
+    "days": "2023-05-04",
+    "Hours": "Appointment only.",
+    "Address": "1580 Case Place, Woodland, CA 95776, USA",
+    "Contact": "(530) 661-7385",
+    "Notes": "Call to make an appointment.",
+    "Website": "http://www.ccwoodland.org/"
+  },
+  {
+    "Name": "Holy Rosary Food Pantry",
+    "Items Available": "Canned, Dry Goods, Refrigerated and Frozen Foods",
+    "days": "2023-05-19",
+    "Hours": "1:00 - 2:00",
+    "Address": "315 Walnut St, Woodland, CA 95695, USA",
+    "Contact": "(530) 662-5233",
+    "Notes": "Call to make an appointment.",
+    "Website": "https://www.holyrosary.com/"
+  },
+  {
+    "Name": "United Methodist Church Personal Care Pantry",
+    "Items Available": "Canned, Dry Goods, Toiletries",
+    "days": "2023-05-08,2023-05-22",
+    "Hours": "17:00 - 18:00,17:00 - 18:00",
+    "Address": "212 Second St, Woodland, CA 95695, USA",
+    "Contact": "(530) 662-6274",
+    "Notes": "Personal care pantry.",
+    "Website": "https://www.umcwoodland.org"
+  },
+  {
+    "Name": "Woodland Volunteer Food Closet",
+    "Items Available": "Canned, Dry Goods, Bread, Frozen Foods",
+    "days": "2023-05-03",
+    "Hours": "15:15 - 16:30",
+    "Address": "509 College St, Woodland, CA 95695, USA",
+    "Contact": "(530) 662-7020",
+    "Notes": "Must obtain referral from a social services organization. Can receive service once every six months. Call for more information",
+    "Website": "http://woodlandfoodcloset.org/"
+  },
+  {
+    "Name": "California Human Development Corp.",
+    "Items Available": "Emergency food for farm workers",
+    "days": "2023-05-08,2023-05-15,2023-05-22,2023-05-29",
+    "Hours": "21:00 - 17:00,21:00 - 17:00,21:00 - 17:00,21:00 - 17:00",
+    "Address": "117 West Main Street Suite 1B, Woodland, CA 95695, USA",
+    "Contact": "(530) 662-9601",
+    "Notes": "Farm workers only.",
+    "Website": "https://californiahumandevelopment.org/"
+  },
+  {
+    "Name": "Woodland Christian Center",
+    "Items Available": "Canned, Dry Goods, Frozen",
+    "days": "2023-05-01,2023-05-03,2023-05-07,2023-05-17,2023-05-21,2023-05-31",
+    "Hours": "Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.",
+    "Address": "440 California St, Woodland, CA 95695, USA",
+    "Contact": "(530) 666-1070",
+    "Notes": "Call to make an appointment.",
+    "Website": "http://www.wcccal.org/"
+  },
+  {
+    "Name": "Pole Line Road Baptist Church Food Closet",
+    "Items Available": "Canned, Dry Goods",
+    "days": "2023-05-03,2023-05-17",
+    "Hours": "09:00 - 11:00,09:00 - 11:00",
+    "Address": "770 Pole Line Rd, Davis, CA 95618, USA",
+    "Contact": "(530) 735-2566",
+    "Notes": "Clients can receive services once a month.",
+    "Website": "https://www.polelinebaptist.org/?page_id=27"
+  },
+  {
+    "Name": "ASUCD The Pantry - Memorial Union 154",
+    "Items Available": "Canned, Dry Goods, occasional produce and bread",
+    "days": "2023-05-19",
+    "Hours": "11:00 - 18:00",
+    "Address": "University of California, Davis, Memorial Union, Shields Avenue, Davis, CA 95616, USA",
+    "Contact": "na",
+    "Notes": "UC Davis students only.",
+    "Website": "https://thepantry.ucdavis.edu/"
+  },
+  {
+    "Name": "Manna House Food Pantry",
+    "Items Available": "Canned, Dry Goods, Refrigerated and Frozen Foods",
+    "days": "2023-05-06",
+    "Hours": "09:00 - 10:30",
+    "Address": "9493 Mill St, Knights Landing, CA 95645, USA",
+    "Contact": "(530) 753-6227",
+    "Notes": "Pantry open to public during hours.",
+    "Website": "na"
+  },
+  {
+    "Name": "Short Term Emergency Aid Committee",
+    "Items Available": "Canned, Dry Goods, Dairy, Produce, Bread, Meat",
+    "days": "2023-05-01,2023-05-07",
+    "Hours": "10:00 - 11:30 and 13:30 - 15:00,10:00 - 11:30 and 13:30 - 15:00",
+    "Address": "640 Hawthorne Ln, Davis, CA 95616, USA",
+    "Contact": "(530) 758-8435",
+    "Notes": "Referral required. Call for more information. Clients can receive services once a month.",
+    "Website": "http://steac.org/"
+  },
+  {
+    "Name": "Countryside Community Church Food Closet",
+    "Items Available": "Canned, Dry Goods",
+    "days": "2023-05-18",
+    "Hours": "W: 9:00am - 12:00pm",
+    "Address": "26479 Grafton St, Esparto, CA 95627, USA",
+    "Contact": "(530) 787-4110",
+    "Notes": "na",
+    "Website": "na"
+  },
+  {
+    "Name": "West Sacramento Baptist Church Food Closet",
+    "Items Available": "Canned, Dry Goods",
+    "days": "2023-05-08,2023-05-15",
+    "Hours": "17:00 - 18:00,17:00 - 18:00",
+    "Address": "2124 Michigan Blvd, West Sacramento, CA 95691, USA",
+    "Contact": "(916) 371-2111",
+    "Notes": "Bring proof of West Sacramento residency.",
+    "Website": "na"
+  },
+  {
+    "Name": "Our Lady of Grace St. Vincent de Paul",
+    "Items Available": "Canned, Dry Goods, Bread, Frozen Foods",
+    "days": "2023-05-03,2023-05-05",
+    "Hours": "Appointment only.,Appointment only.",
+    "Address": "911 Park Blvd, West Sacramento, CA 95691, USA",
+    "Contact": "(916) 371-5264",
+    "Notes": "Call to make an appointment.",
+    "Website": "http://westsacolg.com"
+  },
+  {
+    "Name": "Davis Community Meals",
+    "Items Available": "Hot Meals",
+    "days": "2023-05-07",
+    "Hours": "17:45 - 18:30",
+    "Address": "640 Hawthorne Ln, Davis, CA 95616, USA",
+    "Contact": "(530) 753-9204",
+    "Notes": "na",
+    "Website": "https://daviscommunitymeals.org/"
+  },
+  {
+    "Name": "Mercy Coalition",
+    "Items Available": "Hot Meals",
+    "days": "2023-05-18",
+    "Hours": "11:00 - 11:30",
+    "Address": "500 Jefferson Blvd, West Sacramento, CA 95605, USA",
+    "Contact": "(916) 371-6706",
+    "Notes": "Bagged lunch distributed behind Social Services.",
+    "Website": "https://wsmercycoalition.org/"
+  },
+  {
+    "Name": "West Sacramento Seventh Day Adventist Church",
+    "Items Available": "Canned, Dry Goods",
+    "days": "2023-05-03,2023-05-17",
+    "Hours": "Appointment only.,Appointment only.",
+    "Address": "2860 Jefferson Blvd, West Sacramento, CA 95691, USA",
+    "Contact": "(916) 372-6570",
+    "Notes": "Call to make an appointment.",
+    "Website": "https://westsacramentoca.adventistchurch.org/"
+  },
+  {
+    "Name": "Holy Cross Food Locker",
+    "Items Available": "Canned, Dry Goods, USDA Commodities",
+    "days": "2023-05-02,2023-05-04,2023-05-06",
+    "Hours": "16:00 - 17:00,16:00 - 17:00,16:00 - 17:00",
+    "Address": "1321 Anna St, West Sacramento, CA 95605, USA",
+    "Contact": "(916) 373-3318",
+    "Notes": "na",
+    "Website": "https://www.scd.org/parish/holy-cross-parish-west-sacramento"
+  },
+  {
+    "Name": "Woodland Pet Pantry",
+    "Items Available": "Animal Food",
+    "days": "2023-05-07",
+    "Hours": "7:30 - 9:00",
+    "Address": "1114 College St, Woodland, CA 95695, USA",
+    "Contact": "na",
+    "Notes": "na",
+    "Website": "na"
+  },
+  {
+    "Name": "Fourth & Hope",
+    "Items Available": "Hot Meals",
+    "days": "2023-05-06",
+    "Hours": "17:00 - 17:30",
+    "Address": "207 4th St, Woodland, CA 95695, USA",
+    "Contact": "(530) 661-1218",
+    "Notes": "na",
+    "Website": "http://www.fourthandhope.org/"
+  },
+  {
+    "Name": "United Methodist Church",
+    "Items Available": "Hot Meals",
+    "days": "2023-05-25",
+    "Hours": "17:00 - 18:00",
+    "Address": "212 2nd St, Woodland, CA 95695, USA",
+    "Contact": "(530) 662-6274",
+    "Notes": "na",
+    "Website": "https://www.umcwoodland.org/"
+  },
+  {
+    "Name": "Shores of Hope",
+    "Items Available": "Canned, Dry Goods",
+    "days": "2023-05-02,2023-05-04,2023-05-08,2023-05-11,2023-05-15,2023-05-18,2023-05-22,2023-05-25,2023-05-29,2023-05-31",
+    "Hours": "Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.,Appointment only.",
+    "Address": "110 6th St, West Sacramento, CA 95605, USA",
+    "Contact": "(916) 372-0200",
+    "Notes": "Must call for in for emergency food.",
+    "Website": "http://www.shoresofhope.org"
+  }
+]

@@ -4,7 +4,7 @@ from config import DevConfig
 from flask_migrate import Migrate
 from exts import db,api
 from models import User,Event
-# from flask_cors import CORS
+from flask_cors import CORS
 
 from users import user_ns
 from events import event_ns
@@ -14,7 +14,7 @@ app = Flask(__name__)
 app.config.from_object(DevConfig)
 
 ### allows api to work with app running on different port ###
-# CORS(app)
+CORS(app)
 
 db.init_app(app)
 migrate = Migrate(app,db,compare_type=True)

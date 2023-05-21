@@ -1,0 +1,73 @@
+
+.home {
+    padding-inline: 20px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+#location {
+    height: 50px;
+    border-radius: 8px;
+}
+
+#date {
+    height: 50px;
+    border-radius: 8px;
+}
+.textInput {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    justify-content:space-between;
+}
+
+#tags {
+    height: 40px;
+    width: 60%;
+    border-radius: 50px;
+}
+
+.submit {
+    width: 30%;
+    border-radius: 50px;
+    border:none;
+}
+
+.recurring {
+    height: 40px;
+    width: 50%;
+    border-radius: 50px 0 0 50px;
+    border: none;
+    background-color: grey;
+    color: white;
+}
+
+.singular {
+    height: 40px;
+    width: 50%;
+    border-radius: 0 50px 50px 0;
+    border:none;
+}
+
+.recurringorsingular {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.event-container {
+    overflow-y: scroll;
+    height: auto;
+}
+
+.list-item {
+    border: grey solid 1px
+}

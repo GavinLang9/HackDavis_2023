@@ -17,8 +17,23 @@ event_model = api.model (
     "Event",
     {
         "id":fields.Integer(),
-        "title":fields.String(),
+        "name":fields.String(),
         "description":fields.String(),
-        "time":fields.DateTime()
+        "items":fields.String(),
+        "start_time":fields.DateTime(),
+        "end_time":fields.DateTime(),
+        "address":fields.String(),
+        "contact":fields.String(),
+        "notes":fields.String(),
+        "website":fields.String()
     }
 )
+
+# time_model =api.model (
+#     "Time",
+#     {
+#         "id":fields.Integer(),
+#         "start_time":fields.DateTime(),
+#         "end_time":fields.DateTime()
+#     }
+# )

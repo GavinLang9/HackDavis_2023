@@ -24,9 +24,15 @@ class User(db.Model):
 
 class Event(db.Model):
     id = db.Column(db.Integer(), primary_key=True)
-    title = db.Column(db.String(), nullable=False)
-    description = db.Column(db.Text())
-    time = db.Column(db.DateTime())
+    name = db.Column(db.String(), nullable=False)
+    description = db.Column(db.String())
+    items = db.Column(db.String())
+    start_time = db.Column(db.DateTime(), nullable=True)
+    end_time = db.Column(db.DateTime(), nullable=True)
+    address = db.Column(db.String(), nullable=False)
+    contact = db.Column(db.Integer(), nullable=True)
+    notes = db.Column(db.String(), nullable=True)
+    website = db.Column(db.String(), nullable=True)
 
     def __repr__(self):
         return f"<Event {self.name}>"      
@@ -39,8 +45,14 @@ class Event(db.Model):
         db.session.delete(self)
         db.session.commit()
 
-    def update(self, title, description, time):
-        self.title = title
+    def update(self, name, description, items, start_time, end_time, address, contact, notes, website):
+        self.name = name
         self.description = description
-        self.time = time
+        self.items = items
+        self.start_time = start_time
+        self.end_time = end_time
+        self.address = address
+        self.contact = contact
+        self.notes = notes
+        self.website = website
         
